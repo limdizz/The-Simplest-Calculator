@@ -1,4 +1,5 @@
-# My-first-calculator-13.08.2022-
+# My-first-calculator (13.08.2022)
+
 My first GitHub project ever. I made this one in the middle of my JavaScript learning when I learned variables, functions and loops.
 It's initially written on Russian language, so Russian-speaking users can watch and test it.
 
